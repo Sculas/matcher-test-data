@@ -1,0 +1,6 @@
+[submodule "submodules/yarn"]
+	path = submodules/yarn
+	url = https://github.com/FabricMC/yarn.git
+[submodule "submodules/yt"]
+	path = submodules/yt
+	url = https://github.com/NebelNidas/yt-mappings.git
