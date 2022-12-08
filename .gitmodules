@@ -4,3 +4,4 @@
 [submodule "submodules/yt"]
 	path = submodules/yt
 	url = https://github.com/NebelNidas/yt-mappings.git
+	branch = 17.45.36
